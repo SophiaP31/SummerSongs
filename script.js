@@ -13,6 +13,8 @@ let songlist =
     'Loneliest',
     'Kids',
     'Fearless',
+    'Snooze'
+    'Shut Up and Dance',
     'Snooze',
     'Cupid'
   ];
