@@ -4,6 +4,12 @@ let songlist =
     'Barbie World',
     'Vampire',
     'Seven',
+    'zombie pop',
+    'Deep - Summer Walker',
+    'Seven',
+    'Kids',
+    'Fearless',
+    'Snooze',
     'Cupid'
   ];
 
