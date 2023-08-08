@@ -8,6 +8,7 @@ let songlist =
     'Kids',
     'Fearless',
     'Snooze',
+    'Cupid'
   ];
 
 let index = 0;
