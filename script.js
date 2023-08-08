@@ -7,6 +7,7 @@ let songlist =
     'zombie pop',
     'Deep - Summer Walker',
     'Seven',
+    'Kids',
     'Fearless',
     'Snooze',
     'Cupid'
