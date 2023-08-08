@@ -6,6 +6,7 @@ let songlist =
     'Seven',
     'Snooze',
     'Wildest Dreams'
+    'Fearless'
   ];
 
 let index = 0;
