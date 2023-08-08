@@ -5,6 +5,7 @@ let songlist =
     'Vampire',
     'Seven',
     'Steal my Sunshine',
+    'Fearless',
     'Snooze'
   ];
 
