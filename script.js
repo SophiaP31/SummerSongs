@@ -3,6 +3,8 @@ let songlist =
     'Cruel Summer',
     'Barbie World',
     'Vampire',
+    'Seven',
+    'zombie pop',
     'Deep - Summer Walker',
     'Seven',
     'Fearless',
