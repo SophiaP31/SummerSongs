@@ -5,7 +5,14 @@ let songlist =
     'Vampire',
     'Seven',
     'Snooze',
-    'Anti-Hero'
+    'Anti-Hero',
+    'zombie pop',
+    'Deep - Summer Walker',
+    'Seven',
+    'Kids',
+    'Fearless',
+    'Snooze',
+    'Cupid'
   ];
 
 let index = 0;
