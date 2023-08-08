@@ -6,8 +6,8 @@ let songlist =
     'Deep - Summer Walker',
     'Seven',
     'Fearless',
-    'Snooze'
- 
+    'Snooze',
+    'Cupid'
   ];
 
 let index = 0;
