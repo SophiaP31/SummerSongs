@@ -6,8 +6,22 @@ let songlist =
     'Seven',
     'Snooze',
     'Everybody Talks',
+    'Kokomo',
+    'Super Shy',
+    'Steal my Sunshine',
+    'Snooze',
+    'Anti-Hero',
+    'zombie pop',
+    'Deep - Summer Walker',
+    'Seven',
+    'Snooze',
+    'Loneliest',
+    'Kids',
     'Fearless',
     'Snooze'
+    'Shut Up and Dance',
+    'Snooze',
+    'Cupid'
   ];
 
 let index = 0;
