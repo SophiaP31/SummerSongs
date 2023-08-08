@@ -5,6 +5,8 @@ let songlist =
     'Vampire',
     'Seven',
     'Snooze',
+    'Wildest Dreams',
+    'Fearless',
     'Everybody Talks',
     'Kokomo',
     'Super Shy',
