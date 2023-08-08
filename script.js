@@ -16,7 +16,6 @@ let songlist =
     'Deep - Summer Walker',
     'Loneliest',
     'Kids',
-    'Fearless',
     'Shut Up and Dance',
     'Cupid'
   ];
