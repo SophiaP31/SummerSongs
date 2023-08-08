@@ -4,6 +4,8 @@ let songlist =
     'Barbie World',
     'Vampire',
     'Seven',
+    'Snooze',
+    'Anti-Hero',
     'zombie pop',
     'Deep - Summer Walker',
     'Seven',
